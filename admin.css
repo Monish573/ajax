@@ -1,0 +1,70 @@
+.jumbotron 
+{
+    background-image: url('image/background-hd-2015_111526235_269.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+    color: #d9ff00;
+    text-align: center;
+}
+
+body 
+{
+    background-image: url('image/full-hd-1080p-black-wallpapers-hd-desktop-backgrounds-1920x1080-3-800x800.jpg'); 
+    font-family: Arial, Helvetica, sans-serif;
+    background-size: cover;
+	background-repeat: no-repeat;
+    color: #ffc400e8;
+    text-align: center;
+}
+form {border: 3px solid #f1f1f1;
+width:50%;
+margin-left:250px;
+background:rgba(189, 240, 107, 0.911);
+}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+}
+
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+}
+
+img.avatar {
+    height: 200px;
+  width: 200px;
+  border-radius: 50%;
+    background:black;
+    margin:1rem;
+}
+
+.container {
+  padding: 16px;
+}
+
